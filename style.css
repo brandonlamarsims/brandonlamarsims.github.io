@@ -1,3 +1,8 @@
+button.accordion {
+  display: flex;
+  justify-content: flex-start
+}
+
 .accordion {
   background-color: #eee;
   color: #444;
